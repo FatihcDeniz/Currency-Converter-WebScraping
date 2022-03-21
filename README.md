@@ -7,5 +7,5 @@ This converter allows you to convert 96 different currencies to each other. You 
 
 `BeautifulSoup` and `tkinter` libraries are required.
 
-You can this program by writing `python converter.py` in the terminal.
+You can use this program by writing `python converter.py` in the terminal.
 
